@@ -1,3 +1,4 @@
+# AUTO
 # Lodička
 
 Chvíli krokem, chvíli skokem,
